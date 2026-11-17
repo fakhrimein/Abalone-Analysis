@@ -1,4 +1,4 @@
-* **Dataset Source:** [UCI Machine Learning Repository - Abalone Data](https://archive.ics.uci.edu/dataset/1/abalone) (Nash et al., 1994; Donor: Sam Waugh, 1995)
+* **Dataset Source:** [UCI Machine Learning Repository - Abalone Data](https://archive.ics.uci.edu/dataset/1/abalone) (Nash et al., 1994)
 * **Tools & Libraries:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 
 ---
