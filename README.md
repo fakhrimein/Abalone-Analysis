@@ -26,7 +26,7 @@
 ## Part 1: Classification (Predicting `Sex`: Male, Female, Infant)
 
 ### Methodology
-* **Train-Test Split:** 80% training (3,341 samples) and 20% testing (836 samples) using stratified sampling (`random_state=42`).
+* **Train-Test Split:** 80% training (3,341 samples) and 20% testing (836 samples) using sampling (`random_state=42`).
 * **Models Evaluated:**
   1. **Support Vector Machine (SVM):** Standardized features paired with an RBF-kernel `SVC`, tuned via `GridSearchCV`.
   2. **Random Forest Classifier:** Ensemble decision tree model trained on standardized physical features.
